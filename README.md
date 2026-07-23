@@ -2,9 +2,7 @@
 <h3 align="center">Java, Kotlin & Minecraft developer</h3>
 
 
-## `Contacts`
+## Where to find me?
 
-MC:       `refactoring`<br>
-Discord:  `qtluna`<br>
-Email:    mail@lunasa.dev<br>
-Website:  https://lunasa.dev<br>
+**Discord:** `lunx3`
+**Email:** prismriver@lunasa.dev<br>
