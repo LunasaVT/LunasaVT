@@ -4,5 +4,5 @@
 
 ## Where to find me?
 
-**Discord:** `lunx3`
+**Discord:** `lunx3` <br>
 **Email:** prismriver@lunasa.dev<br>
